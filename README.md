@@ -1,7 +1,7 @@
 
 <div align="center">
 
-  <img src="../assets/kordensa.png" alt="KORDENSA Technologies" width="160">
+  <img src="https://github.com/user-attachments/assets/1d52b151-f7ff-445b-8b08-05e84fed358d" alt="KORDENSA Technologies" width="160">
 
   <h1>KORDENSA Technologies</h1>
 
@@ -62,7 +62,6 @@ Connecting technologies, devices and industrial systems.
 
 - Industrial communication protocols
 - Industrial IoT solutions
-- Communication gateways
 - Data exchange and protocol integration
 - Networked and distributed systems
 
@@ -127,7 +126,7 @@ Repositories and projects will be published here as they become available.
 
 Interested in our technologies, projects or potential collaboration?
 
-- **Website:** [kordensa.com](https://kordensa.com)
+- **Website:** [www.kordensa.com](https://www.kordensa.com)
 - **Email:** [info@kordensa.com](mailto:info@kordensa.com)
 - **GitHub:** KORDENSA Technologies
 
@@ -137,7 +136,7 @@ Interested in our technologies, projects or potential collaboration?
 
   <sub>© 2026 KORDENSA Technologies</sub>
 
-  <br><br>
+  <br>
 
   <strong>Intelligence at the Core.</strong>
 
